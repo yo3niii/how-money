@@ -4,6 +4,7 @@ function Calendar() {
   return (
     <table>
       <CalendarHeader />
+      <div>CalendarBody</div>
     </table>
   );
 }
